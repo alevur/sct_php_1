@@ -19,6 +19,6 @@ function get_page () {
 get_page();
 ?>
 
-<a href="?page=1">Ссылка 1</a>
+<a href="?page=1">Калькулятор</a>
 <a href="?page=2">Ссылка 2</a>
 <a href="?page=3">Ссылка 3</a>
